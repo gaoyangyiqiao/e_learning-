@@ -50,7 +50,7 @@ body a{
 	position: relative;
 }
 .header-home{
-	background:#2cb149;
+	background:#0586c9;
 	z-index: 999;
 }
 .logo{
@@ -184,7 +184,7 @@ span.main {
 	margin-bottom:5em;
 }
 .feature {
-	padding-left:120px;
+	padding-left:50px;
 	position: relative;
 }
 .feature i {
@@ -193,12 +193,12 @@ span.main {
 	left: 0;
 	padding: 0;
 	margin: 0;
-	width: 100px;
-	height: 100px;
-	line-height:101px;
+	width: 30px;
+	height: 30px;
+	line-height:30px;
 	text-align: center;
 	background: #ffde00;
-	font-size:3em;
+	font-size:1.5em;
 	color:#fff;
 }
 .feature h4{
@@ -508,7 +508,7 @@ ul.list2 li a:hover{
 	margin-bottom:2em;
 }
 .grid_3{
-	background: #2cb149;
+	background: #035a87;
 	padding:8em 0;
 }
 .grid_3 h3{
@@ -629,6 +629,10 @@ ul.service_grid{
 }
 .about_box1{
 	margin-bottom:3em;
+}
+
+.about_box1 a{
+	margin-top: 3px;
 }
 h3.m_3{
 	color:#000;
@@ -1454,3 +1458,13 @@ label.btn1.btn2.btn-8.btn-8c {
 	float: none;
 }
 }
+
+.line{
+	border: 1px solid;
+	color:#0586c9;
+}
+
+.my-classes{
+	background-color: #0586c9;
+}
+
